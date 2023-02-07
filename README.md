@@ -2,7 +2,16 @@
 ## Course from Masters in Business Analytics at Nova School of Business and Economics
 
 ### Final Grade:
-__/20
+19/20
 
 ### First Assignment Grade:
-__/20
+18/20
+
+### Second Assignment Grade:
+19/20
+
+### Third Assignment Grade:
+20/20
+
+### Group Project Grade:
+20/20
